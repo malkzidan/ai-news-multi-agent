@@ -8,13 +8,18 @@ Email and Telegram.
 
 User / Scheduled Trigger
         ↓
+        
 Researcher Agent
         ↓
+        
 Tavily Web Search
         ↓
+        
 AI News Research & Summarization
         ↓
+        
 Sender Agent
+
       ↙   ↘
 Telegram  Gmail
 
