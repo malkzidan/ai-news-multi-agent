@@ -19,6 +19,8 @@ AI News Research & Summarization
         ↙     ↘
    Telegram   Gmail
 
+```
+
 ## 🚀 Features
 
 - 🔎 Searches for recent AI news
