@@ -18,41 +18,51 @@ AI News Research & Summarization
       Sender Agent
         ↙     ↘
    Telegram   Gmail
-
 ```
 
 ## 🚀 Features
 
-- 🔎 Searches for recent AI news
-- 🧠 Researcher Agent for news collection and summarization
-- 📧 Sends English summaries via Email
-- 📱 Sends Arabic summaries via Telegram
-- 🌐 Uses Tavily for web search
-- 🔗 Built with LangChain Agents
-- 🤖 Uses an LLM through OpenRouter
+* 🔎 Searches for recent AI news
+* 🧠 Researcher Agent for news collection and summarization
+* 📧 Sends English summaries via Email
+* 📱 Sends Arabic summaries via Telegram
+* 🌐 Uses Tavily for web search
+* 🔗 Built with LangChain Agents
+* 🤖 Uses an LLM through OpenRouter
 
 ## 🛠️ Tech Stack
 
-- Python
-- LangChain
-- OpenRouter
-- Tavily
-- Telegram Bot API
-- Gmail SMTP
-- Jupyter / Kaggle
+* Python
+* LangChain
+* OpenRouter
+* Tavily
+* Telegram Bot API
+* Gmail SMTP
+* Jupyter / Kaggle
+
+## 📸 Output Examples
+
+### 📱 Telegram Output
+
+![Telegram Output](assets/telegram-output.png)
+
+### 📧 Email Output
+
+
+![Email Output](assets/email-output.png)
 
 ## 📌 Current Status
 
 This project currently implements the core multi-agent workflow.
 
 ### Completed
-- Researcher Agent
-- Web search
-- News summarization
-- Arabic/English formatting
-- Telegram delivery
-- Email delivery
 
+* Researcher Agent
+* Web search
+* News summarization
+* Arabic/English formatting
+* Telegram delivery
+* Email delivery
 
 ## 🔐 Security
 
