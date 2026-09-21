@@ -6,17 +6,18 @@ Email and Telegram.
 
 ## 🏗️ Architecture
 
+```text
 User / Scheduled Trigger
-        ↓
-Researcher Agent
-        ↓
-Tavily Web Search
-        ↓
+          ↓
+   Researcher Agent
+          ↓
+    Tavily Web Search
+          ↓
 AI News Research & Summarization
-        ↓
-Sender Agent
-      ↙   ↘
-Telegram  Gmail
+          ↓
+      Sender Agent
+        ↙     ↘
+   Telegram   Gmail
 
 ## 🚀 Features
 
